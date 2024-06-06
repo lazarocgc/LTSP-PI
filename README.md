@@ -22,6 +22,6 @@ Es muy sencillo de usar, una vez configurado el servidor el cliente solo debe mo
 
 ## Autores
 Lázaro Cardenete García Creus
-Gema Gómez Salmerón
 - [@lazarocgc](https://github.com/lazarocgc)
+Gema Gómez Salmerón
 - [@1bumber](https://github.com/1bumber)
