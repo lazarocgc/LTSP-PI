@@ -20,7 +20,8 @@ La interfaz de usuario está intencionalmente simplificada para facilitar su uso
   <a href="----">Manual usuario</a>
 
 ## Autores
-Lázaro Cardenete García Creus
+
 - [@lazarocgc](https://github.com/lazarocgc)
-Gema Gómez Salmerón
+Lázaro Cardenete García Creus
 - [@1bumber](https://github.com/1bumber)
+Gema Gómez Salmerón
