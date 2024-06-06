@@ -23,5 +23,5 @@ La interfaz de usuario está intencionalmente simplificada para facilitar su uso
 
 - [@lazarocgc](https://github.com/lazarocgc)
 Lázaro Cardenete García Creus
-- [@1bumber](https://github.com/1bumber)
+- [@gemagomez1208](https://github.com/gemagomez1208)
 Gema Gómez Salmerón
