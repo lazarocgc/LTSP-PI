@@ -11,13 +11,13 @@ El proyecto tiene como objetivo permitir a los clientes operar sin un disco duro
 
 Para el proceso de implementación, se requiere un servidor equipado con un mínimo de dos tarjetas de interfaz de red (aunque una sola tarjeta podría ser suficiente, se recomienda tener dos para admitir proxy DHCP). Además, es necesario un conmutador gigabit y un cable ethernet CAT 5e o superior.
 
-<a href="---">Guía implantación</a>
+<a href="https://github.com/lazarocgc/LTSP-PI/wiki/5Doc_Implantaci%C3%B3n">Guía implantación</a>
 
 ## Información de uso
 
 La interfaz de usuario está intencionalmente simplificada para facilitar su uso. Una vez que se ha configurado el servidor, el cliente debe ajustar la configuración de su BIOS para habilitar el arranque en red y seleccionar la imagen del sistema operativo deseada.
   
-  <a href="----">Manual usuario</a>
+  <a href="https://github.com/lazarocgc/LTSP-PI/wiki/ConfiguracionCliente">Manual usuario</a>
 
 ## Autores
 
