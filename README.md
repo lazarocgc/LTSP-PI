@@ -17,7 +17,7 @@ Para el proceso de implementación, se requiere un servidor equipado con un mín
 
 La interfaz de usuario está intencionalmente simplificada para facilitar su uso. Una vez que se ha configurado el servidor, el cliente debe ajustar la configuración de su BIOS para habilitar el arranque en red y seleccionar la imagen del sistema operativo deseada.
   
-  <a href="https://github.com/lazarocgc/LTSP-PI/wiki/ConfiguracionCliente">Manual usuario</a>
+  <a href="https://github.com/lazarocgc/LTSP-PI/wiki/OperatoriaCliente">Manual usuario</a>
 
 ## Autores
 
