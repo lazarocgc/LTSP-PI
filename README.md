@@ -5,7 +5,7 @@ Proyecto Integrado de final de grado para el IES Zaidin Vergeles sobre LSTP en U
 
 El proyecto tiene como objetivo permitir a los clientes operar sin un disco duro físico entregando un sistema a través de la red, permitiendo así el uso de hardware económico o de baja especificación y evitando el desperdicio. Esto se logrará mediante un conjunto de aplicaciones de servidor conocido como LTSP, que permite la ejecución de Linux incluso en clientes con recursos limitados.
 
-<a href="link-wiki">Para mas información podemos acceder a la wiki</a>
+<a href="https://github.com/lazarocgc/LTSP-PI/wiki">Para mas información podemos acceder a la wiki</a>
 
 ## Información sobre la estructura
 
